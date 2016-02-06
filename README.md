@@ -16,17 +16,17 @@ The training and test sets are split by dates. In the test set, you will predict
 Details of each schedule and task will be added later.
 
 ## Resource
-- [Video of Airbnb](https://www.youtube.com/watch?v=YFXVFPrWFV0)
-- [PPT of Airbnb](https://www.dropbox.com/s/fsq8a9daotnz5bq/20160116Airbnb.pdf?dl=0)
-- [Data for Airbnb]( https://www.dropbox.com/s/hxe0dqt8zmbp73y/20160116test_users.csv.zip?dl=0)
-- [R Code]( https://www.dropbox.com/s/fc6ztaqvdeuik6p/20160116Airbnb.R?dl=0)
-- Video of Advanced Airbnb
-https://www.youtube.com/watch?v=-IilQPfbedc
-https://www.youtube.com/watch?v=VEqRFHB6eGg
-https://www.youtube.com/watch?v=IFeOLolULlc
-https://www.youtube.com/watch?v=DusISts1QNE
-- [PPT of Advanced Airbnb]( https://www.dropbox.com/s/fye5dwydxcstsn1/20160116AirbnbAdvanced.pdf?dl=0)
-- [R Code for Advanced Airbnb](https://www.dropbox.com/s/aqvymba7as742w5/20160116AirbnbAdvanced.R?dl=0)
+- [Video of Airbnb](https://www.youtube.com/watch?v=YFXVFPrWFV0)  
+- [PPT of Airbnb](https://www.dropbox.com/s/fsq8a9daotnz5bq/20160116Airbnb.pdf?dl=0)  
+- [Data for Airbnb]( https://www.dropbox.com/s/hxe0dqt8zmbp73y/20160116test_users.csv.zip?dl=0)  
+- [R Code]( https://www.dropbox.com/s/fc6ztaqvdeuik6p/20160116Airbnb.R?dl=0)  
+- Advanced Airbnb  
+[Video1](https://www.youtube.com/watch?v=-IilQPfbedc)  
+[Video2](https://www.youtube.com/watch?v=VEqRFHB6eGg)  
+[Video3](https://www.youtube.com/watch?v=IFeOLolULlc)  
+[Video4](https://www.youtube.com/watch?v=DusISts1QNE)  
+- [PPT of Advanced Airbnb]( https://www.dropbox.com/s/fye5dwydxcstsn1/20160116AirbnbAdvanced.pdf?dl=0)  
+- [R Code for Advanced Airbnb](https://www.dropbox.com/s/aqvymba7as742w5/20160116AirbnbAdvanced.R?dl=0)  
 
 ## Language & Framework
 Python 
