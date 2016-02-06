@@ -12,7 +12,7 @@ The training and test sets are split by dates. In the test set, you will predict
 ## Plan
 
 [2016/02/08 - 2016/02/15] Make project planning and study related knowledge.  
-[2016/02/25 - 2016/02/29] Pending...
+[2016/02/25 - 2016/02/29] Pending...  
 Details of each schedule and task will be added later.
 
 ## Resource
