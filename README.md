@@ -3,14 +3,16 @@
 ## Description
 
 Airbnb - Machine Learning of prediction.
-Our goal is.
+In this challenge, we are given a list of users along with their demographics, web session records, and some summary statistics. You are asked to predict which country a new user's first booking destination will be. All the users in this dataset are from the USA.
+
+There are 12 possible outcomes of the destination country: 'US', 'FR', 'CA', 'GB', 'ES', 'IT', 'PT', 'NL','DE', 'AU', 'NDF' (no destination found), and 'other'. Please note that 'NDF' is different from 'other' because 'other' means there was a booking, but is to a country not included in the list, while 'NDF' means there wasn't a booking.
+
+The training and test sets are split by dates. In the test set, you will predict all the new users with first activities after 7/1/2014 (note: this is updated on 12/5/15 when the competition restarted). In the sessions dataset, the data only dates back to 1/1/2014, while the users dataset dates back to 2010. 
 
 ## Plan
 
-Based on our experiences on web development and descriptions metioned above, we take Feb, 2016 as the 1st stage with the primary goal of prototyping our own chat application following the Development Guildlines metioned below. Here're some tentative schedules.
-
-[2016/02/08 - 2016/02/24] ??
-[2016/02/25 - 2016/02/29] ??
+[2016/02/08 - 2016/02/15] Make project planning and study related knowledge.
+[2016/02/25 - 2016/02/29] Pending...
 Details of each schedule and task will be added later.
 
 ## Resource
@@ -29,15 +31,6 @@ https://www.youtube.com/watch?v=DusISts1QNE
 ## Language & Framework
 Python 
 
-## Development Guildlines
-**Modularity**
-Following the principle "loose coupling and high cohesion", each module should be standalone.
-
-**Minimalism**
-Each module should be kept short, simple, and concise. Every piece of code should be transparent upon first reading.
-
-**Easy extensibility** 
-New modules (as new classes and functions) are should be simply add, and existing modules should be extended easily.
 
 ## Owner
 @team: NYGroundhog
